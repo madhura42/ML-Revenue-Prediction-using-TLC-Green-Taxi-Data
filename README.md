@@ -5,7 +5,7 @@ The Taxi Limousine Commission(TLC) provided yellow taxi service for the city of 
 
 **About Data**
 The dataset is about TLC green taxi service for years 2016 to 2018. The data is being consolidated from NYC Taxi Limousine Commission for each of the above years. The data set consists of 19 columns, which consist of numerical and categorical values. There are total of 22.5 million instances overall. The domain of the dataset is Public Transportation. The description of each column of the data is given as follows: 
-**Capture1&2**
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture1.PNG)
 
 **EDA:**
 Given EDA is for the year 2018. Similar EDA was done for the year 2017 and 2019.
