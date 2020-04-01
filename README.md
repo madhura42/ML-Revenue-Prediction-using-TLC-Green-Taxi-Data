@@ -1,4 +1,4 @@
-# NEW YORK GREEN TAXI DATASET
+## NEW YORK GREEN TAXI DATASET
 
 **Abstract**
 The Taxi Limousine Commission(TLC) provided yellow taxi service for the city of New York. But these taxi services were concentrated to the Manhattan region of the city and did not ride to the outskirts. The green taxi service was hence initiated to cater to the demands outside of Manhattan which started in 2013. The data is vast and there are various conclusions we can draw from it. The aim is to maximize the revenue of the company by implementing various machine learning techniques of supervised and unsupervised algorithms to identify the ideal model to the data. 
@@ -83,7 +83,7 @@ We have used ARIMAX model which stands for Autoregressive Integrated Moving Aver
  Q captures the moving average part of ARIMA. It represents the number of prior or lagged values for the error term that are added or subtracted to Y
  The main aim is to select the best (ie. optimal) set of parameters that yields best performance for our model. In simpler terms we take the lowest AIC value. 
 
-**Conclusions: **
+**Conclusions:**
 
 ![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture12.PNG)
 
