@@ -5,67 +5,9 @@ The Taxi Limousine Commission(TLC) provided yellow taxi service for the city of 
 
 **About Data**
 The dataset is about TLC green taxi service for years 2016 to 2018. The data is being consolidated from NYC Taxi Limousine Commission for each of the above years. The data set consists of 19 columns, which consist of numerical and categorical values. There are total of 22.5 million instances overall. The domain of the dataset is Public Transportation. The description of each column of the data is given as follows: 
+**Capture1&2**
 
-Header  
-Data Description 
-VendorID 
-Indicates the LPEP vendor that provided the record 
-1: Creative Mobile Technologies, LLC 
-2: VeriFone Inc. 
-lpep_pickup_datetime 
-The date and time when the meter was first engaged 
-lpep_dropoff_datetime 
-The date and time when the meter was disengaged. 
-passenger_count 
-The number of passengers riding. This is a driver-entered value 
-trip_distance 
-The distance of the trip stored by the taxi meter 
-PULocationID 
-The taxi zone where the taxi meter was engaged 
-DOLocationID 
-The taxi zone where the taxi meter was disengaged 
-RatecodeID 
-The rate code that is in effect according to the type of ride: 
-1: Standard rate 
-2: John F. Kennedy Airport 
-3: Newark Airport 
-4: Nassau or Westchester 
-5: Negotiated Rate 
-6: Group Ride 
-store_and_fwd_flag 
-This flag indicated whether the trip record was held in vehicle memory before sending to the vendor aka “store and forward” because the vehicle did not have a connection to the server. 
-Y: store and forward trip 
-N: not a store and forward trip 
-payment_type 
-An integer indicating the type of payment method used by the customer. 
-1: Credit Card 
-2: Cash 
-3: No charge 
-4: Dispute 
-5: unknown 
-6: Voided trip 
-fare_amount 
-The fare of the ride calculated by the taxi meter on the basis of distance travelled and time spent. 
-extra 
-Miscellaneous extras and surcharges like rush hour surcharge and overnight surcharge 
-mta_tax 
-A $0.50 tax automatically added based on metered use 
-improvement_surcharge 
-A $0.30 improvement surcharge assessed on hailed trips at the flag drop 
-tip_amount 
-The tip amount which is automatically added in a credit card transaction. 
-tolls_amount 
-Total amount paid to tolls on the trip. 
-total_amount 
-Total amount charged to customers, not inclusive of cash tips. 
-trip_type 
-An integer indicating the kind of trip automatically assigned to the ride based on the metered rate but that can alter by the driver. 
-1: Street-hail 
-2: Dispatch 
-congestion_surcharge 
-A $2.75 charge on Green Taxis that pass through Manhattan south of 96th street 
-
-EDA: 
+**EDA:**
 Given EDA is for the year 2018. Similar EDA was done for the year 2017 and 2019.
 
 
