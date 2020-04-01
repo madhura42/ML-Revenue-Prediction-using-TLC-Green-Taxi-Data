@@ -6,13 +6,24 @@ The Taxi Limousine Commission(TLC) provided yellow taxi service for the city of 
 **About Data**
 The dataset is about TLC green taxi service for years 2016 to 2018. The data is being consolidated from NYC Taxi Limousine Commission for each of the above years. The data set consists of 19 columns, which consist of numerical and categorical values. There are total of 22.5 million instances overall. The domain of the dataset is Public Transportation. The description of each column of the data is given as follows: 
 ![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture1.PNG)
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture2.PNG)
 
 **EDA:**
-Given EDA is for the year 2018. Similar EDA was done for the year 2017 and 2019.
+**Given EDA is for the year 2018. Similar EDA was done for the year 2017 and 2019.**
 
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture3.PNG)
 
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture4.PNG)
 
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture5.PNG)
 
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture6.PNG)
+
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture7.PNG)
+
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture8.PNG)
+
+![alt text](https://github.com/madhura42/ML-Revenue-Prediction-using-TLC-Green-Taxi-Data/blob/master/Images/Capture9.PNG)
 
 
 
